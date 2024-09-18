@@ -11,7 +11,7 @@ A React.js application that allows users to search for movies and view details s
 
 ## Demo
 
-You can view a live demo of the application [here](#).
+You can view a live demo of the application [Link](https://movie-hub-tau-rose.vercel.app/).
 
 ## Installation
 
