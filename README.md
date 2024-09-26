@@ -18,7 +18,7 @@ You can view a live demo of the application here: [Movie Search App Demo](https:
 
 ## Installation
 
-To get started with the project, follow these steps:
+To get started with  project, follow these steps:
 
 1. **Clone the Repository**
 
